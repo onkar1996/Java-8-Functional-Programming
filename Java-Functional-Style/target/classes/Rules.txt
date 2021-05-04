@@ -1,0 +1,15 @@
+Pure functional has a set of rules to follow
+============================================
+- No State
+============================================
+- Pure Functions
+============================================
+- No Side Effects
+============================================
+- Higher Order Functions
+
+	* The function takes one or more functions as parameters.
+	* The functions returns another function as a result.
+=============================================================================
+
+Refer  - https://medium.com/@bpnorlander/java-a-guide-to-streams-a94e2895a25d
